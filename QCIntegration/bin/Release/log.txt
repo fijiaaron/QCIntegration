@@ -1,0 +1,2 @@
+2011-11-16 14:19:21.9564|DEBUG|oneshore.QCIntegration.UpdateTestResultsInQC|starting QCIntegration
+2011-11-16 14:19:21.9720|DEBUG|oneshore.QCIntegration.UpdateTestResultsInQC|reading file: C:\temp\testresults.csv

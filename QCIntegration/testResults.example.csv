@@ -1,0 +1,15 @@
+﻿# test case name, status
+
+# testset 1
+TEST_ID_1, Passed
+TEST_ID_2, Failed
+TEST_ID_3, N/A
+TEST_ID_4, Not Completed
+TEST_ID_5, No Run
+
+# testset 2
+TEST_ID_6, Passed
+TEST_ID_7, Passed
+TEST_ID_8, Passed
+TEST_ID_9, Passed
+TEST_ID_10, Passed
