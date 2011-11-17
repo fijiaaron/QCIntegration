@@ -1,5 +1,7 @@
 QCIntegration is provided as is with no warranty by One Shore (http://one-shore.com) and is free to use or modify as you see fit.
 
+This is a sample utility written in C# that uploads test results into Quality Center from a csv file. It uses the Open Test Architecture (OTA) API for communicating with Quality Center. OTAClient.dll is installed with QC Explorer & can be downloaded from QC. Go to Help->Addins Page->HP Quality Center Client Side Setup Add-in.
+
 To use QCIntegration.exe, first modify QCIntegration.exe.config to specify the location of your own Quality Center settings.
 
 	qcHostname      - optional, not used in current configuration
