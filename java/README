@@ -1,0 +1,2 @@
+Here is a junit example using an reflection on a custom annotation to get the QC Test Name for each junit test.  It's probably a bit unnecessarily complexxt since "related" tests are not needed in most cases and if you have a 1:1 mapping between QC & Junit tets, you don't need to use arrays either.
+
