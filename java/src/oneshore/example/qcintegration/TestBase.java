@@ -15,7 +15,7 @@ public class TestBase {
 	@Before
 	public void getQCTestCoverage() {
 		try {
-			Method m = this.getClass().getMethod("testSomething");
+			Method m = this.getClass().getMethod(testName.getMethodName());
 			
 			if (m.isAnnotationPresent(QCTestCases.class)) {
 				qcTestCases = m.getAnnotation(QCTestCases.class);
