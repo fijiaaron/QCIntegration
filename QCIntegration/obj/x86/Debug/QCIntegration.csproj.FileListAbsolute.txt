@@ -30,3 +30,14 @@ C:\Temp\QCIntegration\QCIntegration\obj\x86\Debug\Interop.TDAPIOLELib.dll
 C:\Temp\QCIntegration\QCIntegration\obj\x86\Debug\QCIntegration.csproj.ResolveComReference.cache
 C:\Temp\QCIntegration\QCIntegration\obj\x86\Debug\QCIntegration.exe
 C:\Temp\QCIntegration\QCIntegration\obj\x86\Debug\QCIntegration.pdb
+C:\aaron\projects\QCIntegration\QCIntegration\bin\Debug\QCIntegration.exe.config
+C:\aaron\projects\QCIntegration\QCIntegration\obj\x86\Debug\QCIntegration.csproj.ResolveComReference.cache
+C:\aaron\projects\QCIntegration\QCIntegration\obj\x86\Debug\QCIntegration.exe
+C:\aaron\projects\QCIntegration\QCIntegration\obj\x86\Debug\QCIntegration.pdb
+C:\aaron\projects\QCIntegration\QCIntegration\bin\Debug\NLog.config
+C:\aaron\projects\QCIntegration\QCIntegration\bin\Debug\QCIntegration.exe
+C:\aaron\projects\QCIntegration\QCIntegration\bin\Debug\QCIntegration.pdb
+C:\aaron\projects\QCIntegration\QCIntegration\bin\Debug\NLog.dll
+C:\aaron\projects\QCIntegration\QCIntegration\bin\Debug\NLog.pdb
+C:\aaron\projects\QCIntegration\QCIntegration\bin\Debug\NLog.xml
+C:\aaron\projects\QCIntegration\QCIntegration\obj\x86\Debug\QCIntegration.csprojResolveAssemblyReference.cache
